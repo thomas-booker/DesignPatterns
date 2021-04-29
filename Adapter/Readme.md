@@ -1,0 +1,1 @@
+https://www.journaldev.com/1487/adapter-design-pattern-java
